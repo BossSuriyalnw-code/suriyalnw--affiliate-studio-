@@ -1,8 +1,8 @@
 streamlit==1.39.0
 requests==2.32.3
-Pillow==10.4.0
+Pillow==10.3.0
 edge-tts==6.1.12
 moviepy==1.0.3
 imageio==2.35.1
 imageio-ffmpeg==0.5.1
-numpy<2.0.0
+numpy==1.26.4
